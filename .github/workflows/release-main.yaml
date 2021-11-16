@@ -1,0 +1,23 @@
+on:
+  push:
+    branches:
+      - main
+
+name: Release main please
+
+permissions:
+  contents: write
+  pull-requests: write
+  packages: write
+
+jobs:
+  release-please:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: kalosisz/release-please-action@80f0c7714e2bd8267c7b381aea9e146cfdcfa071
+        id: release
+        with:
+          release-type: python
+          package-name: workshopper
+          draft: true
+          token: ${{ secrets.GITHUB_TOKEN }}
