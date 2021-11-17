@@ -20,6 +20,7 @@ jobs:
           release-type: python
           package-name: workshopper
           draft: true
+          prerelease: true
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Complete
         run: echo Is draft
