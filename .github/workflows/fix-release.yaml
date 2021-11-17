@@ -18,7 +18,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
-      - uses: kalosisz/release-please-action@a78d26c8b75380dc215483caeb0a0d871ee0e9c8
+      - uses: kalosisz/release-please-action@8323888c4d779b46b21e5a993186dfef853e5d4b
         id: release
         with:
           release-type: python
