@@ -14,7 +14,7 @@ jobs:
   release-please:
     runs-on: ubuntu-20.04
     steps:
-      - uses: kalosisz/release-please-action@80f0c7714e2bd8267c7b381aea9e146cfdcfa071
+      - uses: kalosisz/release-please-action@56a3f0aa59d0e0c5a8c848d4f2c8a3d7961b1605
         id: release
         with:
           release-type: python
