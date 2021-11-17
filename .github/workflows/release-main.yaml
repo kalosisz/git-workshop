@@ -14,10 +14,13 @@ jobs:
   release-please:
     runs-on: ubuntu-20.04
     steps:
-      - uses: kalosisz/release-please-action@86f22d4b839e2de9b5d90ae05030938338579344
+      - uses: kalosisz/release-please-action@b119a830b5eae3d9514b3eeaa14da9a1cf33e4b4
         id: release
         with:
           release-type: python
           package-name: workshopper
           draft: true
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Complete
+        run: echo COMPLETE
+        if: ${{ steps.release.outputs.draft }}
