@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/kalosisz/git-workshop/compare/v0.10.0...v1.0.0) (2021-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* abDcasds
+* abDcasds
+
+### Features
+
+* abcasds ([31a91e2](https://www.github.com/kalosisz/git-workshop/commit/31a91e2e9b870d4c646abc2391453eecec75fa89))
+* abDcasds ([d02d465](https://www.github.com/kalosisz/git-workshop/commit/d02d465cd955a8d5babbc1282d2de6c5ef9c8620))
+* abDcasds ([4cde7c1](https://www.github.com/kalosisz/git-workshop/commit/4cde7c1ff783df145ec719a99f047e5153005746))
+
 ## [0.10.0](https://www.github.com/kalosisz/git-workshop/compare/v0.9.0...v0.10.0) (2021-11-21)
 
 
