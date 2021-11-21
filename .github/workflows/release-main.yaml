@@ -19,7 +19,7 @@ jobs:
         with:
           release-type: python
           package-name: workshopper
-          draft: false
+          draft: true
           prerelease: true
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Complete
