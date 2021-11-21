@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/kalosisz/git-workshop/compare/v1.0.0...v1.1.0) (2021-11-21)
+
+
+### Features
+
+* asdjhkjhjkjbasjdas ([83fd407](https://www.github.com/kalosisz/git-workshop/commit/83fd4072713e55032998173e095385780320f14a))
+
 ## [1.0.0](https://www.github.com/kalosisz/git-workshop/compare/v0.10.0...v1.0.0) (2021-11-21)
 
 
