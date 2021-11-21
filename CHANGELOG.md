@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.0](https://www.github.com/kalosisz/git-workshop/compare/v0.10.0...v0.11.0) (2021-11-21)
+
+
+### Features
+
+* cde ([09dedc7](https://www.github.com/kalosisz/git-workshop/commit/09dedc73c3b78afd92ae774c91a817d312d42cbc))
+
 ## [0.10.0](https://www.github.com/kalosisz/git-workshop/compare/v0.9.0...v0.10.0) (2021-11-21)
 
 
