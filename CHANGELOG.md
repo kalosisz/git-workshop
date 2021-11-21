@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.0](https://www.github.com/kalosisz/git-workshop/compare/v0.9.0...v0.10.0) (2021-11-21)
+
+
+### Features
+
+* beste2 ([fc748ee](https://www.github.com/kalosisz/git-workshop/commit/fc748eef4a222ba33114fe9cc4023c184f0297c3))
+* beste3 ([298574f](https://www.github.com/kalosisz/git-workshop/commit/298574fbd3743f41cc132e511a8604a9747eb68c))
+* haphap ([d88a7aa](https://www.github.com/kalosisz/git-workshop/commit/d88a7aabe7827ceb33c517ff7130459aa3ad234c))
+
 ## [0.10.0](https://www.github.com/kalosisz/git-workshop/compare/v0.9.0...v0.10.0) (2021-11-17)
 
 
