@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/kalosisz/git-workshop/compare/v1.1.0...v1.2.0) (2021-11-21)
+
+
+### Features
+
+* a212312sdadsabDcasds ([9259490](https://www.github.com/kalosisz/git-workshop/commit/9259490115584e82296aacded7d2a35dc519c83b))
+* asdadsabDcasds ([4689a00](https://www.github.com/kalosisz/git-workshop/commit/4689a00e05cb3694b5b1f7b9be501cd8e66419e7))
+
 ## [1.1.0](https://www.github.com/kalosisz/git-workshop/compare/v1.0.0...v1.1.0) (2021-11-21)
 
 
