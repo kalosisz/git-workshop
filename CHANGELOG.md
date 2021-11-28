@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/kalosisz/git-workshop/compare/v1.2.0...v1.3.0) (2021-11-28)
+
+
+### Features
+
+* asd213 ([21eefc8](https://www.github.com/kalosisz/git-workshop/commit/21eefc88e92913f969623488719af8ae9b2f2574))
+
 ## [1.2.0](https://www.github.com/kalosisz/git-workshop/compare/v1.1.0...v1.2.0) (2021-11-21)
 
 
