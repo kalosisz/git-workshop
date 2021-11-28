@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/kalosisz/git-workshop/compare/v1.3.0...v1.4.0) (2021-11-28)
+
+
+### Features
+
+* asd213111 ([ea9592f](https://www.github.com/kalosisz/git-workshop/commit/ea9592f56042b2c05be4a903ea94e2ffdb281981))
+
 ## [1.3.0](https://www.github.com/kalosisz/git-workshop/compare/v1.2.0...v1.3.0) (2021-11-28)
 
 
